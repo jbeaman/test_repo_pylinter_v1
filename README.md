@@ -5,6 +5,7 @@ Copyright (c) 2021, [programmingwithalex](https://github.com/programmingwithalex
 ## Description
 
 Demo repo to accompany YouTube video demonstrating how to use the [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub action.
+['Tutorial'](https://www.youtube.com/watch?v=oi94qEvi9Qo)
 
 Python linting packages covered:
 
